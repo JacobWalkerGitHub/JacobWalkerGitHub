@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JacobWalkerGitHub
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Mobile Development
+- 🌱 I’m currently expanding my skills
 - 💞️ I’m looking to collaborate on projects that will benefit others
 
 <!---
