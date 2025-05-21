@@ -28,9 +28,9 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with a focus on buil
 | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=white&style=flat-square) | ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=flat-square) | ![SwiftUI](https://img.shields.io/badge/-SwiftUI-000000?logo=swift&logoColor=white&style=flat-square) | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) |
 
 ### 🛠 Backend
-| Node.js | Express | MySQL | DynamoDB |
+| Node.js | Express | MySQL | PostgreSQL |
 |:--:|:--:|:--:|:--:|
-| ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) | ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) | ![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white&style=flat-square) |
+| ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square) | ![Express](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat-square) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square) |
 
 ### ☁️ Cloud / DevOps
 | AWS | Firebase | Docker | GitHub Actions |
