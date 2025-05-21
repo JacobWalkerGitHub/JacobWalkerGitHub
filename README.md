@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Full Stack & Mobile Developer
+# 👋 Hi, I'm Jacob Walker — Full Stack & Mobile Developer
 
 Welcome to my GitHub! I'm a passionate Full Stack Developer with a focus on building scalable, performant, and modern web and mobile applications using technologies like **React**, **React Native**, **Node.js**, **AWS**, **MySQL**, and **SwiftUI**.
 
