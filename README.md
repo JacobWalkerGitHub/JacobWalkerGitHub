@@ -12,8 +12,9 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with a focus on buil
 - 👨‍💻 Most of my work revolves around:
   - **React / React Native / SwiftUI**
   - **Node.js / Express**
-  - **MySQL / DynamoDB**
+  - **MySQL / PostgreSQL**
   - **AWS (Lambda, S3, DynamoDB, EC2, etc.)**
+  - **Firebase (Auth, Firestore, FCM, etc.)**
   - **API Design (REST, GraphQL)**
   - **CI/CD & DevOps**
 
@@ -37,6 +38,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with a focus on buil
 
 **Cloud / DevOps**  
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)  
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
 
