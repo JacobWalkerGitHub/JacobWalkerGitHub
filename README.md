@@ -44,7 +44,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with a focus on buil
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JacobWalkerGitHub&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JacobWalkerGitHub&theme=radical&hide_border=false" width="48%" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com?user=JacobWalkerGitHub&theme=radical&hide_border=false](https://github-readme-stats.vercel.app/api?username=JacobWalkerGitHub&show_icons=true&theme=radical)" width="48%" />
 </p>
 
 ---
