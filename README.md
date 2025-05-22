@@ -81,7 +81,7 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with a focus on buil
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jacob-walker-772397250/)
-- 🌐 [Portfolio Website](https://TheWalkerTech) -- Currently under maintenance 
+- 🌐 [Portfolio Website](https://TheWalkerTech.com) -- Currently under maintenance 
 <!-- - 🐦 [Twitter/X](https://twitter.com/YOUR_HANDLE)
 - ✉️ Reach me at: `Please DM me on X` -->
 
